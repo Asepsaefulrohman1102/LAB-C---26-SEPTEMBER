@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664201646 source:e:\c++\lab c++ 26 september\main.cpp
+	"stack.hpp"
+
+1664201712 e:\c++\lab c++ 26 september\stack.hpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<array>
+
+1664201672 source:e:\c++\lab c++ 26 september\stack.cpp
+	"stack.hpp"
+
